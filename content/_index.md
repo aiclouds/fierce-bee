@@ -1,12 +1,12 @@
 ---
 title: Home
 banner:
-  title: Spectral
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  title: kapada oonline
+  subtitle: we make street fashion reach every home
   actions:
   - label: Activate
     url: "/generic"
-    is_scrolly: false
+    is_scrolly: true
     is_primary: true
   bottom_link:
     label: Learn More
