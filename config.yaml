@@ -25,3 +25,11 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - url: http://kapadaonline.com
+    name: Elements
+    weight: 3
+  - url: http://kapadaonline.com
+    name: Generic
+    weight: 2
