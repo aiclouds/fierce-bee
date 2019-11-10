@@ -1,9 +1,9 @@
 ---
-title: Spectral
+title: kpadonline - the street fashion
 baseURL: "/"
 params:
   landing_template: home
-  palette: blue
+  palette: green
   palettes:
     blue:
       sass:
@@ -25,11 +25,3 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
-menu:
-  main:
-  - url: http://kapadaonline.com
-    name: Elements
-    weight: 3
-  - url: http://kapadaonline.com
-    name: Generic
-    weight: 2
